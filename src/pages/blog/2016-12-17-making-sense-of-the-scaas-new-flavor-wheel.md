@@ -8,7 +8,7 @@ description: >-
 tags:
   - flavor
   - tasting
-author: Test
+author: Test Fabio
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
